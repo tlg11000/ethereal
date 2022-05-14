@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Italiana:400|Jacques+Francois:400|Jaldi:400|Kameron:400|JetBrains+Mono:400|Laila:400|Lexend+Peta:300");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/627acf8ac7b0a11d86bde778.627acf8dc70f740f687881f6.9ALR2zG.hcp.png");
+
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}

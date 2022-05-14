@@ -1,0 +1,1169 @@
+/* screen - desktop */
+
+.desktop {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 2404px;
+  min-width: 1262px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.desktop:hover {
+}
+
+.desktop .desktop-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2404px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 1262px;
+}
+
+.desktop .desktop-dg6U5x:hover {
+}
+
+.desktop .rectangle-14-dg6U5x {
+  background-color: var(--white);
+  height: 598px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 602px;
+  width: 1262px;
+}
+
+.desktop .rectangle-15-dg6U5x {
+  background-color: var(--white);
+  height: 546px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1820px;
+  width: 1262px;
+}
+
+.desktop .you-are-made-of-magic-and-moonlight-dg6U5x {
+  background-color: transparent;
+  color: #7700b0;
+  font-family: var(--font-family-lexend_peta);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 511px;
+  letter-spacing: 1.24px;
+  line-height: 26.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  width: 729px;
+}
+
+.desktop .so-we-made-something-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-italiana);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  width: 609px;
+}
+
+.desktop .so-we-made-something-dg6U5x.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop .button-dg6U5x {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 5px 5px 4px #00000040;
+  height: 42px;
+  left: 859px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 446px;
+  width: 210px;
+}
+
+.desktop .view-our-collection-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 880px;
+  letter-spacing: 1.43px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 457px;
+  width: 276px;
+}
+
+.desktop .line-1-dg6U5x {
+  background-color: transparent;
+  height: 1px;
+  left: 510px;
+  position: absolute;
+  top: 466px;
+  width: 329px;
+}
+
+.desktop .about-us-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 657px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  transition: all 0.2s ease;
+  width: 176px;
+}
+
+.desktop .about-us-dg6U5x:hover {
+  color: #9201FF
+}
+
+.desktop .items-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 858px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  transition: all 0.2s ease;
+  width: 124px;
+}
+
+.desktop .items-dg6U5x:hover {
+  color: #9201FF
+}
+
+.desktop .sustainability-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1007px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  transition: all 0.2s ease;
+  width: 274px;
+}
+
+.desktop .sustainability-dg6U5x:hover {
+  color: #9201FF
+}
+
+.desktop .group-3-dg6U5x {
+  background-color: transparent;
+  height: 346px;
+  left: 162px;
+  position: absolute;
+  top: 195px;
+  width: 348px;
+}
+
+.desktop .pi-1-qQ7cxh {
+  background-color: transparent;
+  display: block;
+  height: 330px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 348px;
+}
+
+.desktop .pi-1-qQ7cxh.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop .hand-1-qQ7cxh {
+  background-color: transparent;
+  display: block;
+  height: 346px;
+  left: 28px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: 317px;
+}
+
+.desktop .hand-1-qQ7cxh.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop .rectangle-13-dg6U5x {
+  background-color: #fdfaa5;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2353px;
+  width: 1262px;
+}
+
+.desktop .zion-sakado-3-2-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 177px;
+  left: 70px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 244px;
+}
+
+.desktop .zion-sakado-3-2-97rk2x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 130px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2360px;
+  width: 130px;
+}
+
+.desktop .icon-twitter-dg6U5x {
+  background-color: transparent;
+  height: 34px;
+  left: 596px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2359px;
+  width: 50px;
+}
+
+.desktop .circled-envelope-dg6U5x {
+  background-color: transparent;
+  height: 34px;
+  left: 654px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2359px;
+  width: 50px;
+}
+
+.desktop .icon-facebook-dg6U5x {
+  background-color: transparent;
+  height: 34px;
+  left: 538px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2359px;
+  width: 50px;
+}
+
+.desktop .rectangle-12-dg6U5x {
+  background-color: transparent;
+  height: 51px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1962px;
+  width: 1262px;
+}
+
+.desktop .sustainably-made-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-italiana);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 428px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1951px;
+  width: 451px;
+}
+
+.desktop .sustainably-made-dg6U5x.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop .safe-for-all-creatures-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jacques_francois);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 171px;
+  letter-spacing: 2.19px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2056px;
+  width: 287px;
+}
+
+.desktop .ellipse-1-dg6U5x {
+  background-color: transparent;
+  height: 57px;
+  left: 746px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2047px;
+  width: 61px;
+}
+
+.desktop .ellipse-2-dg6U5x {
+  background-color: transparent;
+  height: 57px;
+  left: 966px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2047px;
+  width: 61px;
+}
+
+.desktop .ellipse-4-dg6U5x {
+  background-color: transparent;
+  height: 57px;
+  left: 746px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2192px;
+  width: 61px;
+}
+
+.desktop .ellipse-3-dg6U5x {
+  background-color: transparent;
+  height: 57px;
+  left: 966px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2192px;
+  width: 61px;
+}
+
+.desktop .hedgehog-dg6U5x {
+  background-color: transparent;
+  height: 37px;
+  left: 755px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2057px;
+  width: 43px;
+}
+
+.desktop .willow-dg6U5x {
+  background-color: transparent;
+  height: 34px;
+  left: 973px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2059px;
+  width: 44px;
+}
+
+.desktop .icon-gift-dg6U5x {
+  background-color: transparent;
+  height: 33px;
+  left: 975px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2204px;
+  width: 43px;
+}
+
+.desktop .we-only-use-the-best-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jacques_francois);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 171px;
+  letter-spacing: 1.52px;
+  line-height: 39.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2126px;
+  width: 396px;
+}
+
+.desktop .absolutely-zero-animal-testing-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 703px;
+  letter-spacing: 1.43px;
+  line-height: 21.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2117px;
+  width: 147px;
+}
+
+.desktop .ethically-sourced-ingredients-packaging-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 898px;
+  letter-spacing: 1.43px;
+  line-height: 21.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2117px;
+  width: 195px;
+}
+
+.desktop .backed-by-our-aestheticians-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 712px;
+  letter-spacing: 1.43px;
+  line-height: 21.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2261px;
+  width: 130px;
+}
+
+.desktop .a-portion-of-all-proceeds-are-donated-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 911px;
+  letter-spacing: 1.43px;
+  line-height: 21.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2255px;
+  width: 172px;
+}
+
+.desktop .line-4-dg6U5x {
+  background-color: transparent;
+  height: 1px;
+  left: 275px;
+  position: absolute;
+  top: 2090px;
+  width: 177px;
+}
+
+.desktop .tinder-dg6U5x {
+  background-color: transparent;
+  height: 34px;
+  left: 755px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2204px;
+  width: 44px;
+}
+
+.desktop .rectangle-4-dg6U5x {
+  background-color: transparent;
+  height: 67px;
+  left: 431px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 748px;
+  width: 433px;
+}
+
+.desktop .skincare-fit-for-a-faerie-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-italiana);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 438px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 756px;
+  width: 439px;
+}
+
+.desktop .skincare-fit-for-a-faerie-dg6U5x.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop .rectangle-1-dg6U5x {
+  background-color: #cdf2f2;
+  border-radius: 40px;
+  box-shadow: 0px 5px 4px #00000040;
+  height: 120px;
+  left: 418px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 909px;
+  width: 120px;
+}
+
+.desktop .rectangle-2-dg6U5x {
+  background-color: var(--milan);
+  border-radius: 40px;
+  box-shadow: 0px 5px 4px #00000040;
+  height: 120px;
+  left: 594px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 909px;
+  width: 120px;
+}
+
+.desktop .rectangle-3-dg6U5x {
+  background-color: #f1a0ff;
+  border-radius: 40px;
+  box-shadow: 0px 5px 4px #00000040;
+  height: 120px;
+  left: 770px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 909px;
+  width: 120px;
+}
+
+.desktop .personalized-for-the-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jacques_francois);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 350px;
+  letter-spacing: 1.71px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 838px;
+  width: auto;
+}
+
+.desktop .thirst-dg6U5x {
+  background-color: transparent;
+  height: 59px;
+  left: 802px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 934px;
+  width: 61px;
+}
+
+.desktop .dry-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 447px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 934px;
+  width: 61px;
+}
+
+.desktop .sun-dg6U5x {
+  background-color: transparent;
+  height: 59px;
+  left: 623px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 934px;
+  width: 61px;
+}
+
+.desktop .dry-97rk2x {
+  background-color: transparent;
+  height: auto;
+  left: 462px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 997px;
+  width: 73px;
+}
+
+.desktop .combo-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 630px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 997px;
+  width: 77px;
+}
+
+.desktop .oily-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 813px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 997px;
+  width: 61px;
+}
+
+.desktop .take-our-custom-quiz-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-kameron);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 456px;
+  letter-spacing: 1.43px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1094px;
+  width: 437px;
+}
+
+.desktop .line-2-dg6U5x {
+  background-color: transparent;
+  height: 7px;
+  left: calc(50.00% - 216px);
+  position: absolute;
+  top: calc(50.00% - 84px);
+  width: 496px;
+}
+
+.desktop .line-3-dg6U5x {
+  background-color: transparent;
+  height: 162px;
+  left: 147px;
+  position: absolute;
+  top: 990px;
+  width: 1px;
+}
+
+.desktop .new-skin-starts-here-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-kameron);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 1.90px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 844px;
+  transform: rotate(-90.00deg);
+  width: auto;
+}
+
+.desktop .regimen-items-dg6U5x {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-italiana);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1365px;
+  width: 428px;
+}
+
+.desktop .regimen-items-dg6U5x.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.desktop .for-each-time-of-the-day-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 134px;
+  letter-spacing: 1.43px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1438px;
+  width: auto;
+}
+
+.desktop .rectangle-10-dg6U5x {
+  background-color: var(--milan);
+  height: 147px;
+  left: 311px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1510px;
+  width: 376px;
+}
+
+.desktop .moisturizer-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 483px;
+  letter-spacing: 2.85px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1514px;
+  width: 294px;
+}
+
+.desktop .moisss-1-dg6U5x {
+  background-color: transparent;
+  height: 179px;
+  left: 301px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1494px;
+  width: 177px;
+}
+
+.desktop .rectangle-9-dg6U5x {
+  background-color: var(--milan);
+  height: 147px;
+  left: 715px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1404px;
+  width: 375px;
+}
+
+.desktop .rectangle-11-dg6U5x {
+  background-color: var(--milan);
+  height: 147px;
+  left: 715px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1611px;
+  width: 375px;
+}
+
+.desktop .serum-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 865px;
+  letter-spacing: 2.85px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1616px;
+  width: 189px;
+}
+
+.desktop .face-wash-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 854px;
+  letter-spacing: 2.85px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1408px;
+  width: 239px;
+}
+
+.desktop .ser-1-dg6U5x {
+  background-color: transparent;
+  height: 210px;
+  left: 698px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1570px;
+  width: 130px;
+}
+
+.desktop .face-1-dg6U5x {
+  background-color: transparent;
+  height: 196px;
+  left: 677px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1371px;
+  width: 171px;
+}
+
+.desktop .a-face-wash-to-wash-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 819px;
+  letter-spacing: 1.43px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1455px;
+  width: 242px;
+}
+
+.desktop .a-serum-for-nighttim-dg6U5x {
+  background-color: transparent;
+  height: auto;
+  left: 819px;
+  letter-spacing: 1.43px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1662px;
+  width: 271px;
+}
+
+.desktop .a-moisturizer-to-pro-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 503px;
+  letter-spacing: 1.43px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1565px;
+  width: 186px;
+}
+
+.desktop .about-us-97rk2x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 664px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 649px;
+  transition: all 0.2s ease;
+  width: 176px;
+}
+
+.desktop .about-us-97rk2x:hover {
+  color: #9201FF
+}
+
+.desktop .items-97rk2x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 865px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 649px;
+  transition: all 0.2s ease;
+  width: 124px;
+}
+
+.desktop .items-97rk2x:hover {
+  color: #9201FF
+}
+
+.desktop .sustainability-97rk2x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1014px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 649px;
+  transition: all 0.2s ease;
+  width: 274px;
+}
+
+.desktop .sustainability-97rk2x:hover {
+  color: #9201FF
+}
+
+.desktop .zion-sakado-3-3-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 177px;
+  left: 70px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 602px;
+  width: 244px;
+}
+
+.desktop .about-us-t9gg9N {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 672px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1278px;
+  transition: all 0.2s ease;
+  width: 176px;
+}
+
+.desktop .about-us-t9gg9N:hover {
+  color: #9201FF
+}
+
+.desktop .items-t9gg9N {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 873px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1278px;
+  transition: all 0.2s ease;
+  width: 124px;
+}
+
+.desktop .items-t9gg9N:hover {
+  color: #9201FF
+}
+
+.desktop .sustainability-t9gg9N {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1022px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1278px;
+  width: 274px;
+}
+
+.desktop .zion-sakado-3-4-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 177px;
+  left: 70px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1231px;
+  width: 244px;
+}
+
+.desktop .about-us-4SI2Dg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 672px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1870px;
+  transition: all 0.2s ease;
+  width: 176px;
+}
+
+.desktop .about-us-4SI2Dg:hover {
+  color: #9201FF
+}
+
+.desktop .items-4SI2Dg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 873px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1870px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.desktop .items-4SI2Dg:hover {
+  color: #9201FF
+}
+
+.desktop .sustainability-4SI2Dg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1022px;
+  letter-spacing: 2.70px;
+  line-height: 28.2px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1870px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 176px;
+}
+
+.desktop .sustainability-4SI2Dg:hover {
+  color: #9201FF
+}
+
+.desktop .zion-sakado-3-5-dg6U5x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 177px;
+  left: 70px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1829px;
+  width: 244px;
+}

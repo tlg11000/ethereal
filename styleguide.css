@@ -1,0 +1,60 @@
+:root { 
+  --black: #000000;
+  --milan: #fffba6;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 15px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 19px;
+  --font-size-xxxl: 20px;
+  --font-size-xxxxl: 45px;
+  --font-size-xxxxxl: 55px;
+ 
+  --font-family-italiana: "Italiana", Helvetica;
+  --font-family-jacques_francois: "Jacques Francois", Helvetica;
+  --font-family-jaldi: "Jaldi", Helvetica;
+  --font-family-jetbrains_mono: "JetBrains Mono", Helvetica;
+  --font-family-kameron: "Kameron", Helvetica;
+  --font-family-laila: "Laila", Helvetica;
+  --font-family-lexend_peta: "Lexend Peta", Helvetica;
+}
+.laila-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-laila);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jacquesfrancois-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-jacques_francois);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jaldi-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-jaldi);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jetbrainsmono-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-jetbrains_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.kameron-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-kameron);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
